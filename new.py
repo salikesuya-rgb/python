@@ -2,6 +2,7 @@ School_name="KENDRIYA VIDHALAYA"
 Student_name="Suya Salike"
 Student_class="VII"
 Student_section="A"
+Class_roll_no=35
 Gaurdian_name="Suman Salike"
 Contact_no_1=9841923660
 Contact_no_2=9841153299
@@ -10,6 +11,7 @@ print(School_name)
 print("Student's name",Student_name)
 print("Class",Student_class)
 print("Section",Student_section)
+print("Roll.No",Class_roll_no)
 print("Gaurdian",Gaurdian_name)
 print("Coonntact.No",Contact_no_1,Contact_no_2)
 print("Principal's name",Principal_name)
